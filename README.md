@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi, I'm Elissavet (Veta) 👋
 
-<!--
-**ELBK34/ELBK34** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Information & Electronic Engineering student at
+International Hellenic University, Thessaloniki.
+Interested in cybersecurity, networking, and software development.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🗂️ What you'll find here
+University projects, lab assignments, and small experiments —
+mostly Java, Arduino, web dev, and networking.
+
+
+### 📫 Reach me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Elissavet_Bouka-blue?style=flat&logo=linkedin)](https://linkedin.com/in/elissavet-bouka-9a6a073b1)
