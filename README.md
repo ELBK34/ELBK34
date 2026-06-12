@@ -13,4 +13,5 @@ mostly Java, Arduino, web dev, and networking.
 
 ### 📫 Reach me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Elissavet_Bouka-blue?style=flat&logo=linkedin)](https://linkedin.com/in/elissavet-bouka-9a6a073b1)
+
 📧 elisavetmpk@gmail.com
