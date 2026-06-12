@@ -1,4 +1,4 @@
-# Hi, I'm Elissavet (Veta) 👋
+# Hi, I'm Elissavet(: 👋
 
 Information & Electronic Engineering student at
 International Hellenic University, Thessaloniki.
@@ -13,3 +13,4 @@ mostly Java, Arduino, web dev, and networking.
 
 ### 📫 Reach me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Elissavet_Bouka-blue?style=flat&logo=linkedin)](https://linkedin.com/in/elissavet-bouka-9a6a073b1)
+📧 elisavetmpk@gmail.com
